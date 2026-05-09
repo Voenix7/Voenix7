@@ -8,7 +8,7 @@ Computer Engineering student focused on Embedded Systems, RTL Design, and Digita
 - 🌱 Currently learning Verilog, SystemVerilog, and Digital IC Design
 - 🚀 Building hardware and embedded projects
 
-- ## Tech Stack
+ ## Tech Stack
 - Languages: C/C++, Python, Verilog
 - Hardware: STM32, ESP32, Arduino
 - Tools: Vivado, ModelSim, Quartus, Git
